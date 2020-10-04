@@ -3,8 +3,8 @@ body{
   margin: 0;
     background-color: #f4f6ff;
 }
-.dropdown{
-	background-color:purple;
+.dropbtn{
+	background-color: purple;
 th, td {
   padding: 15px;
   color: grey;

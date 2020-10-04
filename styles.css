@@ -3,9 +3,6 @@ body{
   margin: 0;
     background-color: #f4f6ff;
 }
-.dropbtn{
-	background-color: purple;
-}
 th, td {
   padding: 15px;
   color: grey;
@@ -119,15 +116,3 @@ background-color:white;
 }
 .dropdown-content a:hover {background-color: #ddd}
 .show {display:block;}
-
-.dotted-buttons {
-  position: absolute;
-  left: -20px;
-  top: 0;
-  content: '';
-
-  background-color: green;
-  border-radius: 5px;
-  font-size: 0;
-  padding: 5px;
-}
